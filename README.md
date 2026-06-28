@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="images/banner.png" width="100%">
+  <img src="Gemini_Generated_Image_6sieta6sieta6sie.png" alt="Profile Banner" width="100%">
 </p>
+
+<br>
 # Hi, I'm Aashirwad S Kumar 👋
 
 
