@@ -29,3 +29,4 @@ IT Operations & Data Analytics professional passionate about Enterprise IT, Proc
 
 **Let's connect:**  
 LinkedIn: linkedin.com/in/aashirwad-s-kumar23
+Email: aashirwadskumar@hcltech.com
