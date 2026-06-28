@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
 # Hi, I'm Aashirwad S Kumar 👋
+
 
 IT Operations & Data Analytics professional passionate about Enterprise IT, Process Automation, AI, and Cloud Technologies.
 
